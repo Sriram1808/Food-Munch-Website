@@ -7,4 +7,4 @@
 
 
 ## Platform Used
-* Codesandbox
+* Nxt wave website(ccbp)
